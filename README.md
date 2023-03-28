@@ -1,16 +1,26 @@
-# shopping
+Instagram Reels Video Downloader
+This is a simple command line tool that allows you to download Instagram Reels videos. It is built using Python and requires the requests and beautifulsoup4 libraries.
 
-A new Flutter project.
+Installation
+Clone this repository or download the source code.
+Install the required libraries using pip. Open a terminal and type:
+You're all set!
+Usage
+Open the Instagram app and find the Reels video you want to download.
+Click on the three dots in the top right corner of the post and select "Copy Link".
+Open a terminal and navigate to the directory where you downloaded this repository.
+Type the following command and replace URL with the URL you copied in step 2:
 
-## Getting Started
+The video will be downloaded to the same directory as the script.
+Limitations
+Please note that downloading Instagram Reels videos may violate Instagram's terms of service. Use this tool at your own risk.
 
-This project is a starting point for a Flutter application.
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-A few resources to get you started if this is your first Flutter project:
+Contact
+If you have any questions or comments, feel free to contact me at [IG Reels Video Downloader](https://igreelsvideodownloader.com/)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
